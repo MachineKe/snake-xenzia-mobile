@@ -10,7 +10,6 @@ That is why:
 2. This file should never import other modules that will not be on the device.
 We import react-native-safe-area-context and lucide-react-native 
 but we are confident it will be there. Still not great.
-
 */
 
 import {
